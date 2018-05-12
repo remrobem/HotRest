@@ -35,6 +35,6 @@ app.use(bodyParser.json());
     return res.json(waitlist);
   });
   
-  
+  module.exports = "Routes";
   
  
