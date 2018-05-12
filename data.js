@@ -37,3 +37,4 @@ function newWaitList (name, phone, email, unique) {
     );
 };
 
+module.exports = "Data";
